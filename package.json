@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "shopspot.testutil@git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+        "scope": null,
+        "escapedName": "shopspot.testutil",
+        "name": "shopspot.testutil",
+        "rawSpec": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+        "spec": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "bitbucket",
+          "ssh": "git@bitbucket.org:shopspot/shopspot.testutil.git",
+          "sshUrl": "git+ssh://git@bitbucket.org/shopspot/shopspot.testutil.git",
+          "httpsUrl": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+          "shortcut": "bitbucket:shopspot/shopspot.testutil",
+          "directUrl": "https://bitbucket.org/shopspot/shopspot.testutil/raw/master/package.json"
+        }
+      },
+      "/Users/soulski/Projects/ss/api"
+    ]
+  ],
+  "_from": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+  "_id": "shopspot.testutil@0.0.1",
+  "_inCache": true,
+  "_location": "/shopspot.testutil",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "shopspot.testutil@git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+    "scope": null,
+    "escapedName": "shopspot.testutil",
+    "name": "shopspot.testutil",
+    "rawSpec": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+    "spec": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "bitbucket",
+      "ssh": "git@bitbucket.org:shopspot/shopspot.testutil.git",
+      "sshUrl": "git+ssh://git@bitbucket.org/shopspot/shopspot.testutil.git",
+      "httpsUrl": "git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+      "shortcut": "bitbucket:shopspot/shopspot.testutil",
+      "directUrl": "https://bitbucket.org/shopspot/shopspot.testutil/raw/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://bitbucket.org/shopspot/shopspot.testutil.git#58ad5b6d2fab5dfb945347023aaba2a9ffaaac4a",
+  "_shasum": "d966f2aeac3bb015f4d96fa2c052945932772f3f",
+  "_shrinkwrap": null,
+  "_spec": "shopspot.testutil@git+https://bitbucket.org/shopspot/shopspot.testutil.git",
+  "_where": "/Users/soulski/Projects/ss/api",
+  "author": {
+    "name": "ShopSpot",
+    "email": "shopspot@shopspotapp.com"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "kerberos": "0.0.17",
+    "mongodb": "^2.1.1",
+    "request": "^2.67.0",
+    "winston": "^0.8.3",
+    "wrench": "^1.5.8"
+  },
+  "description": "Mock for testing",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express-server": "^0.4.19",
+    "grunt-mocha-test": "^0.11.0",
+    "grunt-run": "^0.2.4",
+    "jit-grunt": "^0.10.0",
+    "mocha": "1.7.x",
+    "restler": "2.0.x",
+    "should": "1.2.x",
+    "sinon": "1.5.x"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "gitHead": "58ad5b6d2fab5dfb945347023aaba2a9ffaaac4a",
+  "license": "MIT",
+  "main": "main.js",
+  "name": "shopspot.testutil",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}
